@@ -1,0 +1,23 @@
+.main {
+    text-align: center;
+}
+
+.play-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.or {
+    margin: 0 30px;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+}
+
+.next {
+    cursor: pointer;
+}
